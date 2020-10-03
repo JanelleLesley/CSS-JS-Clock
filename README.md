@@ -1,3 +1,3 @@
 # JS Clock
-JS Clock Using Time and Animation Functions
+This project features an operating face powered by JS time and animation functions.
 <p>Technologies used: HTML, CSS, JS </p>
